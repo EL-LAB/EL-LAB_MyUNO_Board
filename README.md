@@ -7,5 +7,5 @@ De esta manera, se trata de fomentar el análisis y comprensión del hardware de
 Más información sobre el uso y ensamblaje de la tarjeta se puede encontrar [aquí](https://github.com/EL-LAB/EL-LAB_MyUNO_Board/wiki/01.-EL-LAB:-MyUNO).
 
 <p align="center">
-  <img width="90%" height="90%" src="https://github.com/EL-LAB/EL-LAB_MyUNO_Board/blob/master/Images/17_TarjetaLista.jpg">
+  <img width="90%" height="90%" src="https://github.com/EL-LAB/EL-LAB_MyUNO_Board/blob/master/Images/31_TarjetaLista.jpg">
 </p>
